@@ -13,7 +13,7 @@ The project follows a **Raw → Standardize → Transform → Data Mart** design
 ---
 
 ## Architecture Overview
-![Architecture Overview](./docs/overview_architecture.png)
+![Architecture Overview](./diagrams/overview_architecture.png)
 
 ---
 
